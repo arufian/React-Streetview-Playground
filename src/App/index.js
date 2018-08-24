@@ -118,7 +118,7 @@ class App extends Component {
           <div className="start-btn" onClick={this.scrollDown}>START</div>
         </div>
         <Spot className="spot1" text="観光地１" ref={this.spotRefs[1]} style={{...transformList[1]}} >
-          <div className="start-btn" onClick={this.openStreetView}>探検する</div>
+          <div className="start-btn" onClick={this.openStreetView}>See StreetView</div>
         </Spot>
         <Spot className="spot2" text="観光地2" ref={this.spotRefs[2]} style={{...transformList[2]}} />
         <Spot className="spot3" text="観光地3" ref={this.spotRefs[3]} style={{...transformList[3]}} />

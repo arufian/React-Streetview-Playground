@@ -1,3 +1,19 @@
+## Google Maps Street View API implementation's playground
+
+This project is dedicated Street View API and other Google Maps's playground.
+
+See [demo](https://arufian.github.io/React-Streetview-Playground/) site, and find `See StreetView` button to see the StreetView page.
+
+### Goals:
+
+- [x] Simple Street View
+- [ ] Custom Street View
+- [ ] Custom Google Map and animation
+
+---
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
